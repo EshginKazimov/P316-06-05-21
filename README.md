@@ -15,3 +15,5 @@ Tapshirig:
 ASP.Net core project yaradib, MVC infrastructure qurmag, daha sonra Products ve Categories class ve table'larin database'da yaradib doldurmaq.
 Sonra Controller ve View'larin komekliyi ile database'da olan melumatlari gostermek.
 View'da Layout'dan istifade edin.
+
+Elave olaraqda, chalishin ASP.Net'de bugune kimi kechdiyimiz derslerin tekrarini edin, ki dahada oyreshmish olasiz.
