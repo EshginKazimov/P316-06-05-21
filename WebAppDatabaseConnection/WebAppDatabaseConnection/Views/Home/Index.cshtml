@@ -1,0 +1,14 @@
+﻿@*@model List<Student>*@
+@{
+    ViewData["Title"] = "Index";
+    List<Student> students = Model;
+}
+
+<ul>
+    @*@foreach (Student student in Model)*@
+    @foreach (Student student in students)
+    {
+        <li>@($"{student.Id} {student.Name} {student.Surname} {student.Age} {student.Group.Name}")</li>
+    }
+</ul>
+
